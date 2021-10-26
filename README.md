@@ -1,0 +1,1 @@
+Exercicio para praticar o conceito de requisições em JavaScript utilzando o site https://jsonplaceholder.typicode.com/ para fazer as requisições.
